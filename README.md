@@ -70,7 +70,11 @@ Ensure you have the following installed:
 
 # Available Scripts
 
-## Development
+## How to Run the Project
+
+To run this project, you need to connect to the backend and sign up using [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/). After signing up, you can log in to the website.
+
+_Note: Apologies for not being able to complete everything on time._
 
 ```bash
 yarn dev
@@ -93,5 +97,13 @@ Starts the development server on http://localhost:3000.
 - TypeScript: Type safety for the project.
 - PostCSS: For CSS processing.
 - ESLint: For maintaining code quality.
+
+## Login Page
+
+![Login Page](image_readme/loginpage.png)
+
+## Home Page
+
+![Home Page](image_readme/homepage.png)
 
 Enjoy building with My Board!
